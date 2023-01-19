@@ -1,6 +1,6 @@
 #### Hi, my name is Muhammad Fadhlan Wijaya
 #### I'm a third-year undergraduate informatics student.
-#### I'm looking for opportunities in machine learning, data science, data analysis and software development with a background in software engineering
+#### I'm looking for opportunities in data science, data analysis, machine learning and software development with a background in software engineering
 
 <!--
 **fadhlanwijaya/fadhlanwijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
